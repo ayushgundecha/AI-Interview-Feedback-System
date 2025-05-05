@@ -119,6 +119,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 Project Link: [https://github.com/yourusername/ai-interview-feedback-system](https://github.com/yourusername/ai-interview-feedback-system)
-# AI-Interview-Feedback-System
-# AI-Interview-Feedback-System
-# AI-Interview-Feedback-System
